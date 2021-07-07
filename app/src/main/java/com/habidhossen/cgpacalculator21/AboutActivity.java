@@ -1,4 +1,4 @@
-package com.habidhossen.cgpacalculator;
+package com.habidhossen.cgpacalculator21;
 
 import androidx.appcompat.app.AppCompatActivity;
 
